@@ -1,1 +1,1 @@
-include ':app'
+include ':app', ':singleton_demo'
