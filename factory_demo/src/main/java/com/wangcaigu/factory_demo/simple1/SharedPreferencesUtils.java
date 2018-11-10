@@ -9,6 +9,7 @@ import android.content.SharedPreferences;
  * Description：
  */
 public class SharedPreferencesUtils {
+
     private volatile static SharedPreferencesUtils mInstance;
     private SharedPreferences mPreferences;
     private SharedPreferences.Editor mEditor;
