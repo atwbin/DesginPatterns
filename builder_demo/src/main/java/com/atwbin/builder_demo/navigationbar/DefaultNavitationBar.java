@@ -1,4 +1,4 @@
-package com.atwbin.builder_demo;
+package com.atwbin.builder_demo.navigationbar;
 
 
 import android.content.Context;
@@ -6,7 +6,7 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.TextView;
 
-import com.atwbin.builder_demo.navigationbar.AbsNavigationBar;
+import com.atwbin.builder_demo.R;
 
 /**
  * Author：Created by Wbin on 2018/11/9
@@ -37,7 +37,7 @@ public class DefaultNavitationBar extends AbsNavigationBar<DefaultNavitationBar.
         private int mLeftVisible = View.VISIBLE;
 
         public Builder(Context context, ViewGroup parent) {
-            super(context, R.layout.ui_defualt_navigation_bar, parent);
+            super(context, R.layout.ui_navigation_bar, parent);
         }
 
         @Override
