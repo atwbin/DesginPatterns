@@ -1,4 +1,4 @@
-package com.wangcaigu.factory_demo;
+package com.wangcaigu.factory_demo.simple1;
 
 import android.content.Context;
 import android.content.SharedPreferences;
