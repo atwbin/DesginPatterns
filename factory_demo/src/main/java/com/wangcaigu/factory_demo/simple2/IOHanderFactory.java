@@ -20,7 +20,7 @@ public class IOHanderFactory {
             case PREFERENCE:
                 return new PreferencesIOHandler();
             case DISK:
-                return null;  //返回具体的类
+                return new DiskIOHandler();  //返回具体的类
             default:
                 return null;
         }

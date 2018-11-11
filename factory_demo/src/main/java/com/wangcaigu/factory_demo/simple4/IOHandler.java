@@ -1,4 +1,4 @@
-package com.wangcaigu.factory_demo.simple2;
+package com.wangcaigu.factory_demo.simple4;
 
 /**
  * Author：Created by Wbin on 2018/11/10
@@ -32,7 +32,7 @@ public interface IOHandler {
 
     boolean getBoolean(String key, boolean defaultValue);
 
-    Object getObject(String key, Object defaultValue);
+     Object getObject(String key, Object defaultValue);
 
 
 }
