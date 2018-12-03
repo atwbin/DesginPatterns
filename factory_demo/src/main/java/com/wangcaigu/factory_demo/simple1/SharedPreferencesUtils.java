@@ -1,6 +1,5 @@
 package com.wangcaigu.factory_demo.simple1;
 
-import android.annotation.SuppressLint;
 import android.content.Context;
 import android.content.SharedPreferences;
 
