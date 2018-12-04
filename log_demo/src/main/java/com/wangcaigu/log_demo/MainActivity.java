@@ -15,5 +15,6 @@ public class MainActivity extends AppCompatActivity {
         ImageView imageView = null;
         //属性动画
         ObjectAnimator animator = ObjectAnimator.ofFloat(imageView, "translationY", 1f);
+
     }
 }
