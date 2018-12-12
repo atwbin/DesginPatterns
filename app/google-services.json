@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1086323499367",
+    "firebase_url": "https://designpatterns-a25ed.firebaseio.com",
+    "project_id": "designpatterns-a25ed",
+    "storage_bucket": "designpatterns-a25ed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1086323499367:android:8c3c085597812916",
+        "android_client_info": {
+          "package_name": "com.atwbin.desgin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1086323499367-3jlpbd2aub324o4hre15uhn70v6hhmvs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPamnYvpnKugPaMTJKk9VfegdHOnpS9Y0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
