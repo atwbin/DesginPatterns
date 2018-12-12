@@ -1,1 +1,1 @@
-include ':app', ':singleton_demo', ':builder_demo', ':factory_demo', ':decoration_demo', ':log_demo', ':adapter_demo'
+include ':app', ':singleton_demo', ':builder_demo', ':factory_demo', ':decoration_demo', ':log_demo', ':adapter_demo', ':observer_demo'
