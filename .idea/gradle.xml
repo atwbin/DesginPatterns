@@ -15,6 +15,7 @@
             <option value="$PROJECT_DIR$/factory_demo" />
             <option value="$PROJECT_DIR$/log_demo" />
             <option value="$PROJECT_DIR$/observer_demo" />
+            <option value="$PROJECT_DIR$/original_demo" />
             <option value="$PROJECT_DIR$/proxy_demo" />
             <option value="$PROJECT_DIR$/singleton_demo" />
           </set>
