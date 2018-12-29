@@ -13,6 +13,7 @@
             <option value="$PROJECT_DIR$/builder_demo" />
             <option value="$PROJECT_DIR$/decoration_demo" />
             <option value="$PROJECT_DIR$/factory_demo" />
+            <option value="$PROJECT_DIR$/iterator_demo" />
             <option value="$PROJECT_DIR$/log_demo" />
             <option value="$PROJECT_DIR$/observer_demo" />
             <option value="$PROJECT_DIR$/original_demo" />
