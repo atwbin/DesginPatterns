@@ -11,6 +11,7 @@
             <option value="$PROJECT_DIR$/adapter_demo" />
             <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/builder_demo" />
+            <option value="$PROJECT_DIR$/chain_demo" />
             <option value="$PROJECT_DIR$/decoration_demo" />
             <option value="$PROJECT_DIR$/factory_demo" />
             <option value="$PROJECT_DIR$/iterator_demo" />
